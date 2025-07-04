@@ -1,0 +1,98 @@
+baseURL = "https://example.org/"
+defaultContentLanguage = "en"
+
+title = 'folio | multi-guest solo TTRPG actual play'
+theme = 'hermit-v2'
+enableRobotsTXT = true
+
+enableEmoji = true
+
+# [params.author]
+#  name = "satah"
+#  about = "CHANGE SITE AUTHOR ABOUT"
+
+[frontmatter]
+  date = ["lastmod", "date", "publishDate"]
+  lastmod = ["date", "lastmod", ":git", "publishDate"]
+  publishDate = ["publishDate", "date"]
+  expiryDate = ["expiryDate"]
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
+[taxonomies]
+	tag = "tags"
+ 	category = "categories"
+	guest = "guests"
+	games = "games"
+
+[params]
+	description = "multi-guest actual play of solo TTRPGs"
+	# themeColor =
+	# accentColor =
+	homeSubtitle = "multi-guest actual play of solo & self-paced TTRPGs"
+
+	relatedPosts = true
+	scrollToTop = true
+	shareSocial = true
+	# tagSymbol
+	# categorySymbol
+	# pinned
+	listLayout = ["categories","tags"]
+
+	capitalizeListTitles = false
+	preserveTaxonomyNames = true
+	titleCaseStyle = 'none'
+	footerHideThemeName = true
+	timeZone = 'America/Toronto'
+
+[[params.socialLinks]]
+	name = "bluesky"
+	url = "https://bsky.app/profile/foliopod.bsky.social"
+
+[[params.socialLinks]]
+	name = "email"
+	url = "mailto:foliomissives@gmail.com"
+
+[[params.socialLinks]]
+	name = "instagram"
+	url = "https://www.instagram.com/foliopodcast/"
+
+[[params.socialLinks]]
+	name = "ko-fi"
+	url = "https://ko-fi.com/foliopod"
+
+[[params.socialLinks]]
+	name = "youtube"
+	url = "https://www.youtube.com/@foliopodcast"
+
+[menu]
+	[[menu.main]]
+	    name = 'all episodes & transcripts'
+    	pageRef = '/transcripts'
+		weight = 10
+
+	[[menu.main]]
+	    name = 'by game'
+    	pageRef = '/games'
+		weight = 20
+
+	[[menu.main]]
+	    name = 'by guest'
+    	pageRef = '/guests'
+		weight = 30
+
+	[[menu.main]]
+	    name = 'series trailers'
+    	pageRef = '/trailers'
+		weight = 40
+
+	[[menu.main]]
+ 		name = 'series wraps'
+ 	  	pageRef = '/wrapped'
+		weight = 50
+
+# allow episode embeds
+[markup.goldmark.renderer]
+ unsafe = true
