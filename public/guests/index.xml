@@ -2,157 +2,157 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>guests on folio | multi-guest solo TTRPG actual play</title>
-    <link>https://example.org/guests/</link>
+    <link>http://localhost:1313/folio/guests/</link>
     <description>Recent content in guests on folio | multi-guest solo TTRPG actual play</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 04 Jul 2025 11:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/guests/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/folio/guests/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chloe Sobel</title>
-      <link>https://example.org/guests/chloe-sobel/</link>
+      <link>http://localhost:1313/folio/guests/chloe-sobel/</link>
       <pubDate>Fri, 04 Jul 2025 11:00:00 +0000</pubDate>
-      <guid>https://example.org/guests/chloe-sobel/</guid>
+      <guid>http://localhost:1313/folio/guests/chloe-sobel/</guid>
       <description></description>
     </item>
     <item>
       <title>Happy Birthday</title>
-      <link>https://example.org/guests/happy-birthday/</link>
+      <link>http://localhost:1313/folio/guests/happy-birthday/</link>
       <pubDate>Fri, 04 Jul 2025 11:00:00 +0000</pubDate>
-      <guid>https://example.org/guests/happy-birthday/</guid>
+      <guid>http://localhost:1313/folio/guests/happy-birthday/</guid>
       <description></description>
     </item>
     <item>
       <title>Alyssa</title>
-      <link>https://example.org/guests/alyssa/</link>
+      <link>http://localhost:1313/folio/guests/alyssa/</link>
       <pubDate>Fri, 27 Jun 2025 11:00:00 +0000</pubDate>
-      <guid>https://example.org/guests/alyssa/</guid>
+      <guid>http://localhost:1313/folio/guests/alyssa/</guid>
       <description></description>
     </item>
     <item>
       <title>Matthew Orr</title>
-      <link>https://example.org/guests/matthew-orr/</link>
+      <link>http://localhost:1313/folio/guests/matthew-orr/</link>
       <pubDate>Fri, 27 Jun 2025 11:00:00 +0000</pubDate>
-      <guid>https://example.org/guests/matthew-orr/</guid>
+      <guid>http://localhost:1313/folio/guests/matthew-orr/</guid>
       <description></description>
     </item>
     <item>
       <title>Caleb Zane Huett</title>
-      <link>https://example.org/guests/caleb-zane-huett/</link>
+      <link>http://localhost:1313/folio/guests/caleb-zane-huett/</link>
       <pubDate>Fri, 30 May 2025 11:00:00 +0000</pubDate>
-      <guid>https://example.org/guests/caleb-zane-huett/</guid>
+      <guid>http://localhost:1313/folio/guests/caleb-zane-huett/</guid>
       <description></description>
     </item>
     <item>
       <title>Connor C</title>
-      <link>https://example.org/guests/connor-c/</link>
+      <link>http://localhost:1313/folio/guests/connor-c/</link>
       <pubDate>Fri, 30 May 2025 11:00:00 +0000</pubDate>
-      <guid>https://example.org/guests/connor-c/</guid>
+      <guid>http://localhost:1313/folio/guests/connor-c/</guid>
       <description></description>
     </item>
     <item>
       <title>Dorian</title>
-      <link>https://example.org/guests/dorian/</link>
+      <link>http://localhost:1313/folio/guests/dorian/</link>
       <pubDate>Fri, 02 May 2025 11:30:00 +0000</pubDate>
-      <guid>https://example.org/guests/dorian/</guid>
+      <guid>http://localhost:1313/folio/guests/dorian/</guid>
       <description></description>
     </item>
     <item>
       <title>Nick Butler</title>
-      <link>https://example.org/guests/nick-butler/</link>
+      <link>http://localhost:1313/folio/guests/nick-butler/</link>
       <pubDate>Fri, 02 May 2025 11:30:00 +0000</pubDate>
-      <guid>https://example.org/guests/nick-butler/</guid>
+      <guid>http://localhost:1313/folio/guests/nick-butler/</guid>
       <description></description>
     </item>
     <item>
       <title>Steph Novak</title>
-      <link>https://example.org/guests/steph-novak/</link>
+      <link>http://localhost:1313/folio/guests/steph-novak/</link>
       <pubDate>Fri, 04 Apr 2025 11:00:00 +0000</pubDate>
-      <guid>https://example.org/guests/steph-novak/</guid>
+      <guid>http://localhost:1313/folio/guests/steph-novak/</guid>
       <description></description>
     </item>
     <item>
       <title>Garbageface Aka Gnostic Front Aka Karol Orzechowski</title>
-      <link>https://example.org/guests/garbageface-aka-gnostic-front-aka-karol-orzechowski/</link>
+      <link>http://localhost:1313/folio/guests/garbageface-aka-gnostic-front-aka-karol-orzechowski/</link>
       <pubDate>Fri, 07 Mar 2025 11:00:00 +0000</pubDate>
-      <guid>https://example.org/guests/garbageface-aka-gnostic-front-aka-karol-orzechowski/</guid>
+      <guid>http://localhost:1313/folio/guests/garbageface-aka-gnostic-front-aka-karol-orzechowski/</guid>
       <description></description>
     </item>
     <item>
       <title>Jam Edwards</title>
-      <link>https://example.org/guests/jam-edwards/</link>
+      <link>http://localhost:1313/folio/guests/jam-edwards/</link>
       <pubDate>Fri, 07 Mar 2025 11:00:00 +0000</pubDate>
-      <guid>https://example.org/guests/jam-edwards/</guid>
+      <guid>http://localhost:1313/folio/guests/jam-edwards/</guid>
       <description></description>
     </item>
     <item>
       <title>Brianna Price</title>
-      <link>https://example.org/guests/brianna-price/</link>
+      <link>http://localhost:1313/folio/guests/brianna-price/</link>
       <pubDate>Fri, 21 Feb 2025 11:30:00 +0000</pubDate>
-      <guid>https://example.org/guests/brianna-price/</guid>
+      <guid>http://localhost:1313/folio/guests/brianna-price/</guid>
       <description></description>
     </item>
     <item>
       <title>Dora Rogers</title>
-      <link>https://example.org/guests/dora-rogers/</link>
+      <link>http://localhost:1313/folio/guests/dora-rogers/</link>
       <pubDate>Fri, 21 Feb 2025 11:30:00 +0000</pubDate>
-      <guid>https://example.org/guests/dora-rogers/</guid>
+      <guid>http://localhost:1313/folio/guests/dora-rogers/</guid>
       <description></description>
     </item>
     <item>
       <title>Dusty Hill</title>
-      <link>https://example.org/guests/dusty-hill/</link>
+      <link>http://localhost:1313/folio/guests/dusty-hill/</link>
       <pubDate>Fri, 24 Jan 2025 11:30:00 +0000</pubDate>
-      <guid>https://example.org/guests/dusty-hill/</guid>
+      <guid>http://localhost:1313/folio/guests/dusty-hill/</guid>
       <description></description>
     </item>
     <item>
       <title>Jess Levine</title>
-      <link>https://example.org/guests/jess-levine/</link>
+      <link>http://localhost:1313/folio/guests/jess-levine/</link>
       <pubDate>Fri, 24 Jan 2025 11:30:00 +0000</pubDate>
-      <guid>https://example.org/guests/jess-levine/</guid>
+      <guid>http://localhost:1313/folio/guests/jess-levine/</guid>
       <description></description>
     </item>
     <item>
       <title>Dusty</title>
-      <link>https://example.org/guests/dusty/</link>
+      <link>http://localhost:1313/folio/guests/dusty/</link>
       <pubDate>Fri, 24 Jan 2025 11:00:00 +0000</pubDate>
-      <guid>https://example.org/guests/dusty/</guid>
+      <guid>http://localhost:1313/folio/guests/dusty/</guid>
       <description></description>
     </item>
     <item>
       <title>Satah</title>
-      <link>https://example.org/guests/satah/</link>
+      <link>http://localhost:1313/folio/guests/satah/</link>
       <pubDate>Fri, 24 Jan 2025 11:00:00 +0000</pubDate>
-      <guid>https://example.org/guests/satah/</guid>
+      <guid>http://localhost:1313/folio/guests/satah/</guid>
       <description></description>
     </item>
     <item>
       <title>Agatha C</title>
-      <link>https://example.org/guests/agatha-c/</link>
+      <link>http://localhost:1313/folio/guests/agatha-c/</link>
       <pubDate>Fri, 20 Dec 2024 11:30:00 +0000</pubDate>
-      <guid>https://example.org/guests/agatha-c/</guid>
+      <guid>http://localhost:1313/folio/guests/agatha-c/</guid>
       <description></description>
     </item>
     <item>
       <title>Rhannon Daly</title>
-      <link>https://example.org/guests/rhannon-daly/</link>
+      <link>http://localhost:1313/folio/guests/rhannon-daly/</link>
       <pubDate>Fri, 20 Dec 2024 11:30:00 +0000</pubDate>
-      <guid>https://example.org/guests/rhannon-daly/</guid>
+      <guid>http://localhost:1313/folio/guests/rhannon-daly/</guid>
       <description></description>
     </item>
     <item>
       <title>Darling Demon Eclipse</title>
-      <link>https://example.org/guests/darling-demon-eclipse/</link>
+      <link>http://localhost:1313/folio/guests/darling-demon-eclipse/</link>
       <pubDate>Fri, 15 Nov 2024 11:30:00 +0000</pubDate>
-      <guid>https://example.org/guests/darling-demon-eclipse/</guid>
+      <guid>http://localhost:1313/folio/guests/darling-demon-eclipse/</guid>
       <description></description>
     </item>
     <item>
       <title>Tomas Gimenez Rioja</title>
-      <link>https://example.org/guests/tomas-gimenez-rioja/</link>
+      <link>http://localhost:1313/folio/guests/tomas-gimenez-rioja/</link>
       <pubDate>Fri, 25 Oct 2024 11:30:00 +0000</pubDate>
-      <guid>https://example.org/guests/tomas-gimenez-rioja/</guid>
+      <guid>http://localhost:1313/folio/guests/tomas-gimenez-rioja/</guid>
       <description></description>
     </item>
   </channel>
