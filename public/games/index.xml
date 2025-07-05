@@ -2,87 +2,87 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>games on folio | multi-guest solo TTRPG actual play</title>
-    <link>http://localhost:1313/folio/games/</link>
+    <link>https://foliopod.github.io/folio/games/</link>
     <description>Recent content in games on folio | multi-guest solo TTRPG actual play</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 04 Jul 2025 11:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/folio/games/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://foliopod.github.io/folio/games/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>To Honour and Obey</title>
-      <link>http://localhost:1313/folio/games/to-honour-and-obey/</link>
+      <link>https://foliopod.github.io/folio/games/to-honour-and-obey/</link>
       <pubDate>Fri, 04 Jul 2025 11:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/folio/games/to-honour-and-obey/</guid>
+      <guid>https://foliopod.github.io/folio/games/to-honour-and-obey/</guid>
       <description></description>
     </item>
     <item>
       <title>Furyya</title>
-      <link>http://localhost:1313/folio/games/furyya/</link>
+      <link>https://foliopod.github.io/folio/games/furyya/</link>
       <pubDate>Fri, 27 Jun 2025 11:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/folio/games/furyya/</guid>
+      <guid>https://foliopod.github.io/folio/games/furyya/</guid>
       <description></description>
     </item>
     <item>
       <title>Skyworthy</title>
-      <link>http://localhost:1313/folio/games/skyworthy/</link>
+      <link>https://foliopod.github.io/folio/games/skyworthy/</link>
       <pubDate>Fri, 30 May 2025 11:30:00 +0000</pubDate>
-      <guid>http://localhost:1313/folio/games/skyworthy/</guid>
+      <guid>https://foliopod.github.io/folio/games/skyworthy/</guid>
       <description></description>
     </item>
     <item>
       <title>The World We Left Behind</title>
-      <link>http://localhost:1313/folio/games/the-world-we-left-behind/</link>
+      <link>https://foliopod.github.io/folio/games/the-world-we-left-behind/</link>
       <pubDate>Fri, 02 May 2025 11:30:00 +0000</pubDate>
-      <guid>http://localhost:1313/folio/games/the-world-we-left-behind/</guid>
+      <guid>https://foliopod.github.io/folio/games/the-world-we-left-behind/</guid>
       <description></description>
     </item>
     <item>
       <title>My Turn! Draw!</title>
-      <link>http://localhost:1313/folio/games/my-turn-draw/</link>
+      <link>https://foliopod.github.io/folio/games/my-turn-draw/</link>
       <pubDate>Fri, 04 Apr 2025 11:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/folio/games/my-turn-draw/</guid>
+      <guid>https://foliopod.github.io/folio/games/my-turn-draw/</guid>
       <description></description>
     </item>
     <item>
       <title>Immanence</title>
-      <link>http://localhost:1313/folio/games/immanence/</link>
+      <link>https://foliopod.github.io/folio/games/immanence/</link>
       <pubDate>Fri, 07 Mar 2025 11:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/folio/games/immanence/</guid>
+      <guid>https://foliopod.github.io/folio/games/immanence/</guid>
       <description></description>
     </item>
     <item>
       <title>Live. Love. Die. Remember.</title>
-      <link>http://localhost:1313/folio/games/live.-love.-die.-remember./</link>
+      <link>https://foliopod.github.io/folio/games/live.-love.-die.-remember./</link>
       <pubDate>Fri, 21 Feb 2025 11:30:00 +0000</pubDate>
-      <guid>http://localhost:1313/folio/games/live.-love.-die.-remember./</guid>
+      <guid>https://foliopod.github.io/folio/games/live.-love.-die.-remember./</guid>
       <description></description>
     </item>
     <item>
       <title>Alone Among the Stars</title>
-      <link>http://localhost:1313/folio/games/alone-among-the-stars/</link>
+      <link>https://foliopod.github.io/folio/games/alone-among-the-stars/</link>
       <pubDate>Fri, 24 Jan 2025 11:30:00 +0000</pubDate>
-      <guid>http://localhost:1313/folio/games/alone-among-the-stars/</guid>
+      <guid>https://foliopod.github.io/folio/games/alone-among-the-stars/</guid>
       <description></description>
     </item>
     <item>
       <title>Village Witch</title>
-      <link>http://localhost:1313/folio/games/village-witch/</link>
+      <link>https://foliopod.github.io/folio/games/village-witch/</link>
       <pubDate>Fri, 20 Dec 2024 11:30:00 +0000</pubDate>
-      <guid>http://localhost:1313/folio/games/village-witch/</guid>
+      <guid>https://foliopod.github.io/folio/games/village-witch/</guid>
       <description></description>
     </item>
     <item>
       <title>Unplugged Survivor</title>
-      <link>http://localhost:1313/folio/games/unplugged-survivor/</link>
+      <link>https://foliopod.github.io/folio/games/unplugged-survivor/</link>
       <pubDate>Fri, 15 Nov 2024 11:30:00 +0000</pubDate>
-      <guid>http://localhost:1313/folio/games/unplugged-survivor/</guid>
+      <guid>https://foliopod.github.io/folio/games/unplugged-survivor/</guid>
       <description></description>
     </item>
     <item>
       <title>Accomplice</title>
-      <link>http://localhost:1313/folio/games/accomplice/</link>
+      <link>https://foliopod.github.io/folio/games/accomplice/</link>
       <pubDate>Fri, 25 Oct 2024 11:30:00 +0000</pubDate>
-      <guid>http://localhost:1313/folio/games/accomplice/</guid>
+      <guid>https://foliopod.github.io/folio/games/accomplice/</guid>
       <description></description>
     </item>
   </channel>

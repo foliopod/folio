@@ -23,7 +23,7 @@
 <!-- guests --> 
 {{ if .Params.guests }}
   {{ partial "svg.html" (dict "context" . "name" "author") }} <strong>guest{{ if gt (len .Params.guests) 1 }}s{{ end }}:</strong>
-  {{ range $index, $guest := .Params.guests }}{{ if gt $index 0 }}, {{ end }}<a href="{{ "/guests/" | relURL }}{{ . | urlize }}">{{ . }}</a>{{ end }}
+  {{ range $index, $guest := .Params.guests }}{{ if gt $index 0 }}, {{ end }}<a href="{{ "/folio/guests/" | relURL }}{{ . | urlize }}">{{ . }}</a>{{ end }}
 {{ end }}
 
 <!-- word count --> 
