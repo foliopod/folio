@@ -21,20 +21,20 @@ with the final episode of village witch on the feed, here are some charts about 
 
 ### **per person**
 
-{{< figure src="/img/wrapped/village-witch/chart-1.png" alt="" >}}
+{{< figure src="/img/wrapped/village-witch-chart-1.png" alt="" >}}
 
-{{< figure src="/img/wrapped/village-witch/chart-2.png" alt="" >}}
+{{< figure src="/img/wrapped/village-witch-chart-2.png" alt="" >}}
 
 ### per season
 
-{{< figure src="/img/wrapped/village-witch/chart-3.png" alt="" >}}
+{{< figure src="/img/wrapped/village-witch-chart-3.png" alt="" >}}
 
-{{< figure src="/img/wrapped/village-witch/chart-4.png" alt="" >}}
+{{< figure src="/img/wrapped/village-witch-chart-4.png" alt="" >}}
 
 ### totals
 
-{{< figure src="/img/wrapped/village-witch/chart-5.png" alt="" >}}
+{{< figure src="/img/wrapped/village-witch-chart-5.png" alt="" >}}
 
-{{< figure src="/img/wrapped/village-witch/chart-6.png" alt="" >}}
+{{< figure src="/img/wrapped/village-witch-chart-6.png" alt="" >}}
 
 [here's a link to the google sheet with the data](https://docs.google.com/spreadsheets/d/1IJbDK87ZtZvQH_n-v2FtWOGdXEXQGqba7LbM6gH4C_k/edit?usp=sharing) if you want to take a look yourself!

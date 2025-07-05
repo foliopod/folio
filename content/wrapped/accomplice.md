@@ -21,7 +21,7 @@ toc : true
 
 the very first series of the podcast featured the game [accomplice](https://michael-klamerus.itch.io/accomplice)🖤 it was posted a little bit sooner than i originally expected because i realised that i really wanted it to be out in full by hallowe'en. the three playthroughs were recorded in july & september of 2024, which means it was still weather where i could remember that laptops are like very portable & edit in parks sometimes:
 
-{{< figure src="/img/wrapped/accomplice/park-edit.jpg" alt="a disposable camera style photo with a laptop in front of a sun-dappled park" >}}
+{{< figure src="/img/wrapped/accomplice-park-edit.jpg" alt="a disposable camera style photo with a laptop in front of a sun-dappled park" >}}
 
 ### **the guests**
 
@@ -31,7 +31,7 @@ get notified of the launch of magnolia: city of marvels, a systemless setting of
 caleb zane huett | [hauntedtable.games](http://hauntedtable.games) | [calebzanehuett.com](https://calebzanehuett.com)  
 order a physical copy of *triangle agency* at [shop.hauntedtable.games](http://shop.hauntedtable.games) or [hauntedtable.itch.io](https://hauntedtable.itch.io)
 
-{{< figure src="/img/wrapped/accomplice/fruity-on-purpose.png" alt="" >}}
+{{< figure src="/img/wrapped/accomplice-fruity-on-purpose.png" alt="" >}}
 
 ### **charts & process**
 
@@ -45,13 +45,13 @@ ok. i'm going to throw a lot of charts at you now. like a lot. you can [look at 
 
 each round of research ended up providing about the same number of clues in total, though caleb's results were definitely front-loaded (*note: in this instance, i'm counting the two middle rounds of tomas' research both as "round two"*):
 
-{{< figure src="/img/wrapped/accomplice/chart-1.png" alt="" >}}
+{{< figure src="/img/wrapped/accomplice-chart-1.png" alt="" >}}
 
 **clues**
 
 our investigation into our foes was, of course, influenced by what kinds of details our research turned up.
 
-{{< figure src="/img/wrapped/accomplice/chart-2.png" alt="" >}}
+{{< figure src="/img/wrapped/accomplice-chart-2.png" alt="" >}}
 
 * all three of us found  
   * background information  
@@ -72,19 +72,19 @@ also: there are thirteen possible clues in total, & we only got twelve of them �
 
 the only research location that we all used was the internet, which is realistic in a very funny way. i love that the more academic characters (tomas' librarian & my curator) both visited a research institution, while the character who was set up to rely more on personal history & experience was the only one who used their own library. that worked out in a cool way\!\!
 
-{{< figure src="/img/wrapped/accomplice/chart-3.png" alt="" >}}
+{{< figure src="/img/wrapped/accomplice-chart-3.png" alt="" >}}
 
 on the topic of realistic depictions of the internet, here's a statistic i decided to call "location efficacy" that made me laugh out loud the first time i put it it together:
 
-{{< figure src="/img/wrapped/accomplice/chart-4.png" alt="" >}}
+{{< figure src="/img/wrapped/accomplice-chart-4.png" alt="" >}}
 
 the internet was visited the most times & provided the second-highest number of clues in total, but was by far the least *effective* method of research, with only an average of 2.5 clues per visit. the other three were pretty close together. research institutions technically come out on top at an average of 4.3 clues per visit, but libraries & local places of interest are just barely behind with an average of 4\.
 
-{{< figure src="/img/wrapped/accomplice/chart-5.png" alt="" >}}
+{{< figure src="/img/wrapped/accomplice-chart-5.png" alt="" >}}
 
 perhaps technically the sample sizes here are so small that this essentially means nothing, but it, like...... definitely feels true vis a vis where the internet is at the past few years, right.....? the one thing the internet COULD basically keep up with was breadth of information, which we can determine by looking at how many different types of clues were found at each location
 
-{{< figure src="/img/wrapped/accomplice/chart-6.png" alt="" >}}
+{{< figure src="/img/wrapped/accomplice-chart-6.png" alt="" >}}
 
 obviously, here we can see that:
 
@@ -104,7 +104,7 @@ obviously, here we can see that:
 
 the type of documentation you're doing research with (like a newspaper or a book) is determined by the value of the card that also determines where you're researching (like a research building or the internet), so the general uniformity of the results here isn't surprising.
 
-{{< figure src="/img/wrapped/accomplice/chart-7.png" alt="" >}}
+{{< figure src="/img/wrapped/accomplice-chart-7.png" alt="" >}}
 
 i still thought it was fun to see things like:
 
@@ -116,29 +116,29 @@ this doesn't even come close to measuring how impactful the clue was on the narr
 
 the types of documentation found at specific research locations also ended up pretty apt\! mechanically, there's no reason you couldn't have "a website from/related to a local place of interest", but all of our websites ended up being from the internet. which is totally where websites tend to live\!\!\!\!\!\!\!\!\!\!\!
 
-{{< figure src="/img/wrapped/accomplice/chart-8.png" alt="" >}}
+{{< figure src="/img/wrapped/accomplice-chart-8.png" alt="" >}}
 
 because tomas technically did one more round than caleb and i, he has a slightly broader spread of documentation types. his character was slightly luckier at getting information out of magazines than caleb's, but less lucky at getting information out of books than my character (bit of a librarian L there i'm afraid; sorry buddy). overall, books, journals, and magazines were the most fruitful types of documentation-- shout out to the printed word 📚
 
-{{< figure src="/img/wrapped/accomplice/chart-9.png" alt="" >}}
+{{< figure src="/img/wrapped/accomplice-chart-9.png" alt="" >}}
 
 & now we're gonna wrap up with a bunch of pie charts showing what types of clues were found in what types of documentation\!\!\! so much to learn here\!\!\!\!\!\!\!\!\! you want to find background information? crack a freaken book. you want weaknesses? check out a magazine or journal. you can find clues about locations in pictures\!\!\!\!\!\!\! this is all real data about real life, i think actually, is what i've decided\! use this as a guide for actual real genuine research you're doing\!\!\! we will not lead you astray\!\!\!\!\!\!\!\!\!\!
 
-{{< figure src="/img/wrapped/accomplice/chart-10.1.png" alt="" >}}
+{{< figure src="/img/wrapped/accomplice-chart-10.1.png" alt="" >}}
 
-{{< figure src="/img/wrapped/accomplice/chart-10.2.png" alt="" >}}
+{{< figure src="/img/wrapped/accomplice-chart-10.2.png" alt="" >}}
 
-{{< figure src="/img/wrapped/accomplice/chart-10.3.png" alt="" >}}
+{{< figure src="/img/wrapped/accomplice-chart-10.3.png" alt="" >}}
 
-{{< figure src="/img/wrapped/accomplice/chart-10.4.png" alt="" >}}
+{{< figure src="/img/wrapped/accomplice-chart-10.4.png" alt="" >}}
 
-{{< figure src="/img/wrapped/accomplice/chart-10.5.png" alt="" >}}
+{{< figure src="/img/wrapped/accomplice-chart-10.5.png" alt="" >}}
 
-{{< figure src="/img/wrapped/accomplice/chart-10.6.png" alt="" >}}
+{{< figure src="/img/wrapped/accomplice-chart-10.6.png" alt="" >}}
 
-{{< figure src="/img/wrapped/accomplice/chart-10.7.png" alt="" >}}
+{{< figure src="/img/wrapped/accomplice-chart-10.7.png" alt="" >}}
 
-{{< figure src="/img/wrapped/accomplice/chart-10.8.png" alt="" >}}
+{{< figure src="/img/wrapped/accomplice-chart-10.8.png" alt="" >}}
 
 **alright that's it**
 
