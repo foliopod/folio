@@ -12,6 +12,8 @@ guests:
  - matthew orr
  - alyssa
 ---
+
+A POP UP AD FOR THE CHROME FANGS U SAW A FLASH OF. NEON DISTORTING THE STAINS ON UR COLLAR TO A DEEP PURPLE. IT'S ALWAYS RAINING. U THOUGHT "THIS CITY WILL EAT U ALIVE" WAS A METAPHOR. BUZZER SOUND. SRY KID. SYNECDOCHE AT BEST
 <iframe src="https://player.rss.com/folio/2045997?theme=dark&v=2" width="100%" height="202px" title="033 - furyya 01 - with matt orr & alyssa" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen scrolling="no"><a href="https://rss.com/podcasts/folio/2045997/">033 - furyya 01 - with matt orr & alyssa | RSS.com</a></iframe>
 
 ### **INTRO**

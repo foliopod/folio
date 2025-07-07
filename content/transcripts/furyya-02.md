@@ -13,6 +13,7 @@ guests:
  - alyssa
 ---
 
+NET'S BUZZING SO HARD I GOT A MIGRAINE DOING MY DAILIES. U SEE THE SHIT ABT THE HOT BUTCH SCALING THE GARDENS? THE FUCK? & A QUAESTOR NOSING AROUND THE PRAUG GIRL? PLUS A KATA WENT DARK AT THE TOWERS... BEES IN MY PORTS FR FR
 <iframe src="https://player.rss.com/folio/2057762?theme=dark&v=2" width="100%" height="202px" title="034 - furyya 02 - with matt orr & alyssa" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen scrolling="no"><a href="https://rss.com/podcasts/folio/2057762/">034 - furyya 02 - with matt orr & alyssa | RSS.com</a></iframe>
 
 ### **INTRO**

@@ -13,6 +13,7 @@ guests:
  - alyssa
 ---
 
+HOBBY HUNTERS KINDA GET WHAT THEY'RE ASKING FOR... LIKE IF U NEED A THRILL TRY WALKING DOWNTOWN WITH ANTI-VI OFF YKWIM? OR IF U CAN REALLY ONLY GET UR ROCKS OFF ON GLEAMING CANINES JUST HANG OUT AT DRIP ON A FRIDAY LIKE LOL
 <iframe src="https://player.rss.com/folio/2057937?theme=dark&v=2" width="100%" height="202px" title="035 - furyya 03 - with matt orr & alyssa" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen scrolling="no"><a href="https://rss.com/podcasts/folio/2057937/">035 - furyya 03 - with matt orr & alyssa | RSS.com</a></iframe>
 
 ### **INTRO**

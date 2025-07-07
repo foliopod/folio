@@ -1,7 +1,7 @@
 ---
 draft : false
 
-date: '2025-06-20T11:30:00'
+date: '2025-06-27T11:30:00'
 title: 'furyya | wrapped'
 
 games:

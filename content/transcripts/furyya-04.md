@@ -12,6 +12,8 @@ guests:
  - matthew orr
  - alyssa
 ---
+
+EVERY DAY I'M JACKIN IN & DISCERNIN THE BIG MOVES FROM THE TALL TALES. HOSHI INC CIVIL WAR? GARDENS UNDER NEW MANAGEMENT \*AGAIN\*??? CMON. WHAT MATTERS IS SOMEONE "AUTOTUNED" THE PRAETOR LEAK & NGL THAT RETRO SHIT CRACKS ME UP
 <iframe src="https://player.rss.com/folio/2057943?theme=dark&v=2" width="100%" height="202px" title="036 - furyya 04 - with matt orr & alyssa" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen scrolling="no"><a href="https://rss.com/podcasts/folio/2057943/">036 - furyya 04 - with matt orr & alyssa | RSS.com</a></iframe>
 
 ### **INTRO**

@@ -12,6 +12,8 @@ guests:
  - happy birthday
  - chloe sobel
 ---
+
+your husband's duties call him away, but yours are bound to you: a keep in disrepair, a favourless retinue, & a gnawing anxiety filling any space in your gut not taken up by the child who grows there
 <iframe src="https://player.rss.com/folio/2090987?theme=dark&v=2" width="100%" height="202px" title="037 - to honour and obey 01 - with HB & chloe sobe" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen scrolling="no"><a href="https://rss.com/podcasts/folio/2090987/">037 - to honour and obey 01 - with HB & chloe sobe | RSS.com</a></iframe>
 
 ### **INTRO**
