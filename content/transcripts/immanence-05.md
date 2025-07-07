@@ -3,7 +3,7 @@ draft: false
 
 title: 'episode 023 | immanence 05'
 slug: 'immanence-05'
-date: '2025-07-28T11:00:00'
+date: '2025-03-22T11:00:00'
 
 games:
  - immanence

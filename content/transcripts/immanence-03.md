@@ -1,9 +1,9 @@
 ---
 draft: false
 
-date: '2025-07-14T11:00:00'
 title: 'episode 021 | immanence 03'
 slug: 'immanence-03'
+date: '2025-03-08T11:00:00'
 
 games:
  - immanence
