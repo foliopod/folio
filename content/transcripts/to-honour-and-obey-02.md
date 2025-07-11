@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 
 title: 'episode 038 | to honour & obey 02'
 slug: 'to-honour-and-obey-02'
@@ -12,6 +12,9 @@ guests:
  - happy birthday
  - chloe sobel
 ---
+
+your mother tries, but your husband's position means yours is different from hers. blight, uneven ledgers, farm squabbles-- at any time she'd have dealt with perhaps one of these problems. all of them & more are yours
+<iframe src="https://player.rss.com/folio/2099056?theme=dark&v=2" width="100%" height="202px" title="038 - to honour and obey 02 - with HB & chloe sobe" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen scrolling="no"><a href="https://rss.com/podcasts/folio/2099056/">038 - to honour and obey 02 - with HB & chloe sobe | RSS.com</a></iframe>
 
 ### **INTRO**
 
@@ -53,7 +56,7 @@ I n– is she magic? That's important to know.
 
 I think… in the grand tradition of… people who didn't know that they were, for example, autistic for a very long time, realising that they're autistic and then going, huh, why didn't my parents think that I was a little weird? And then going, oh\! One or both is also autistic and just doesn't know, so they thought I was regular style… because I'm like them. But they're also weird. Feel free to substitute autism for a lot of different stuff that could be happening in your brain.
 
-Similar to that, I think my mother is- is very much a… maybe a bit of a woman's gift type person? Is like, women just know things? And I think is- is relatively cloistered in a lot of ways, and I've done a little bit more traveling, in part because of my… cool husband. And been like, I think there are actually women- a lot of women who don't know things\! I think that I have magical powers. And I think I probably got them in part from you.
+Similar to that, I think my mother is- is very much a… maybe a bit of a "woman's gift" type person? Is like, "women just know things?" And I think is- is relatively cloistered in a lot of ways, and I've done a little bit more traveling, in part because of my… cool husband. And been like, I think there are actually women- a lot of women who don't know things\! I think that I have magical powers. And I think I probably got them in part from you.
 
 And I don't think we've had that conversation. I tried once, but it got shut down. Because again, this is– that would be– that would be dirty- dirty magic, right?
 
@@ -211,8 +214,6 @@ Because we have gone straight into it in this way, what essentially happens is t
 
 People start coming up with surprisingly credible rumours that maybe it's the lady of the keep herself. Maybe there's something going on with her. There is a strangeness about her. There is a, uh… ever since she has arrived here, there have been a number of bizarre incidents, and, you know. They rumour this and they do not know how close to the truth they are.
 
-#### CARD THREE
-
 **CHLOE:** Ten.
 
 **SATAH:** Ten.
@@ -232,6 +233,8 @@ Unfortunately, when a fire sweeps through the village, it means that we don't ha
 So I'm gonna- I'm gonna put two tokens down. I'm gonna put one down on my strength because I did use it, but I'm also acting in desperation when I confront the fact that the village has recently been on fire, and, um… "the unintended"… yeah.
 
 And how do I deal with it? Yeah, I shut down. I let someone else handle it. I let the steward, the asshole steward who is mistreating the people under my care handle it. And he does, but… he does extort them a bit.
+
+#### CARD THREE
 
 **SATAH:** So right away, I know that I refuse and that my the rumours of my deviltry start to really amplify.
 
@@ -390,6 +393,8 @@ So, yeah. That wraps up act two.
 **SATAH:** Act two didn't tell me to shuffle the major arcana back in… but neither does anything else, so I think I will put it back in.
 
 ### **GAME: ACT THREE**
+
+#### CARD ONE
 
 **HB:** Took a little break here to have a bit of dinner, and now I think we are prepared to return to the matter at hand. It is time for act three: cups.
 

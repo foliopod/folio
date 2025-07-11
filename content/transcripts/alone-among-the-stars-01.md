@@ -1,9 +1,9 @@
 ---
 draft: false
 
-date: '2025-01-10T11:00:00'
 title: 'episode 012 | alone among the stars 01'
 slug: 'alone-among-the-stars-01'
+date: '2025-01-10T11:00:00'
 
 games:
  - alone among the stars
@@ -11,7 +11,7 @@ games:
 guests:
  - dusty
  - jess levine
- - satah
+
 ---
 
 <iframe src="https://player.rss.com/folio/1825327?theme=dark&v=2" width="100%" height="202px" title="012 - alone among the stars 01 - with jess levine " frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen scrolling="no"><a href="https://rss.com/podcasts/folio/1825327/">012 - alone among the stars 01 - with jess levine  | RSS.com</a></iframe>

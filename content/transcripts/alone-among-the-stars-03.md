@@ -1,9 +1,9 @@
 ---
 draft: false
 
-date: '2025-01-24T11:00:00'
 title: 'episode 014 | alone among the stars 03'
 slug: 'alone-among-the-stars-03'
+date: '2025-01-24T11:00:00'
 
 games:
  - alone among the stars
@@ -11,7 +11,7 @@ games:
 guests:
  - dusty
  - jess levine
- - satah
+
 ---
 
 ### **INTRO**
