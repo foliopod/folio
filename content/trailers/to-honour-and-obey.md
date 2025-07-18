@@ -5,7 +5,7 @@ title : 'to honour and obey | series trailer'
 date: '2025-07-04T10:30:00'
 
 games:
- - accomplice
+ - to honour and obey
 
 guests:
  - happy birthday
@@ -17,4 +17,4 @@ scrolltotop : true
 toc : true
 ---
 
-{{< youtube "1s8ByIb6Z8tyTz6S" >}}
+{{< youtube "JoFAHECdKiI" >}}
