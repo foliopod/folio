@@ -1,5 +1,5 @@
 ---
-draft : true
+draft : false
 
 title : 'to honour and obey | series trailer'
 date: '2025-07-04T10:30:00'
@@ -17,4 +17,4 @@ scrolltotop : true
 toc : true
 ---
 
-{{< youtube "RJkGi4-6nfg" >}}
+{{< youtube "1s8ByIb6Z8tyTz6S" >}}

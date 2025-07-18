@@ -13,6 +13,8 @@ guests:
  - chloe sobel
 ---
 
+<iframe src="https://player.rss.com/folio/2099058?theme=dark&v=2" width="100%" height="202px" title="039 - to honour and obey 03 - with HB & chloe sobe" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen scrolling="no"><a href="https://rss.com/podcasts/folio/2099058/">039 - to honour and obey 03 - with HB & chloe sobe | RSS.com</a></iframe>
+
 ### **INTRO**
 
 **SATAH:** Welcome to *Folio*, an actual play podcast about solo and epistolary TTRPGs. I'm your host, Satah, and I'm showcasing multiple possible experiences of self-paced games by inviting guests to play them alongside me so I can compile our stories together. You can support the show financially at [patreon.com/foliopod](http://patreon.com/foliopod) or [ko-fi com/foliopod](http://ko-fi.com/foliopod).
