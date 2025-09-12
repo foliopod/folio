@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://foliopod.github.io/folio/sitemap.xml
+Sitemap: http://localhost:1313/folio/sitemap.xml

@@ -19,7 +19,7 @@ toc : true
 
 <iframe src="https://player.rss.com/folio/2166697?theme=dark&v=2" width="100%" height="202px" title="044 - friendy neighbourhood super hero 02 - with g" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen scrolling="no"><a href="https://rss.com/podcasts/folio/2166697/">044 - friendy neighbourhood super hero 02 - with g | RSS.com</a></iframe>
 
-_this transcript was generously provided by a lifesaving listener with minor formatting changes from me_
+_this transcript was generously provided by **ilias** with minor formatting changes from me_
 
 ## INTRO
 

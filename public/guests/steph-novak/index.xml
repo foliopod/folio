@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Steph Novak on folio | multi-guest solo TTRPG actual play</title>
-    <link>https://foliopod.github.io/folio/guests/steph-novak/</link>
+    <link>http://localhost:1313/folio/guests/steph-novak/</link>
     <description>Recent content in Steph Novak on folio | multi-guest solo TTRPG actual play</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 04 Apr 2025 11:00:00 +0000</lastBuildDate>
-    <atom:link href="https://foliopod.github.io/folio/guests/steph-novak/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/folio/guests/steph-novak/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>episode 024 | my turn! draw!</title>
-      <link>https://foliopod.github.io/folio/transcripts/my-turn-draw/</link>
+      <link>http://localhost:1313/folio/transcripts/my-turn-draw/</link>
       <pubDate>Fri, 04 Apr 2025 11:00:00 +0000</pubDate>
-      <guid>https://foliopod.github.io/folio/transcripts/my-turn-draw/</guid>
+      <guid>http://localhost:1313/folio/transcripts/my-turn-draw/</guid>
       <description>&lt;iframe src=&#34;https://player.rss.com/folio/1957869?theme=dark&amp;v=2&#34; width=&#34;100%&#34; height=&#34;202px&#34; title=&#34;024 - my turn! draw! - with steph novak&#34; frameBorder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen scrolling=&#34;no&#34;&gt;&lt;a href=&#34;https://rss.com/podcasts/folio/1957869/&#34;&gt;024 - my turn! draw! - with steph novak | RSS.com&lt;/a&gt;&lt;/iframe&gt;&#xA;&lt;h3 id=&#34;intro&#34;&gt;&lt;strong&gt;INTRO&lt;/strong&gt;&lt;a href=&#34;#intro&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34;&#xA;      stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&#xA;      &lt;path d=&#34;M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3&#34;&gt;&lt;/path&gt;&#xA;      &lt;line x1=&#34;8&#34; y1=&#34;12&#34; x2=&#34;16&#34; y2=&#34;12&#34;&gt;&lt;/line&gt;&#xA;   &lt;/svg&gt;&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;SATAH:&lt;/strong&gt; Welcome to Folio, an actual play podcast about solo and epistolary TTRPGs. I am your host, Satah. My goal is to showcase multiple possible experiences of self-paced games by inviting guests to play them alongside me so I can compile our stories together. You can support the show financially at &lt;a href=&#34;http://patreon.com/foliopod&#34;&gt;patreon.com/foliopod&lt;/a&gt;, or join as a free member to get access to the bonus podcast feed, which will shortly include alternate playthroughs of this very game. One should be up at the time of posting this episode, and the other will go out later in April.&lt;/p&gt;</description>
     </item>
   </channel>
