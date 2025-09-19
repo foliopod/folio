@@ -17,6 +17,8 @@ scrolltotop : true
 toc : true
 ---
 
+<iframe src="https://player.rss.com/folio/2222159?theme=dark&v=2" width="100%" height="202px" title="048 - farsickness landing 01 - with dora rogers & " frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen scrolling="no"><a href="https://rss.com/podcasts/folio/2222159/">048 - farsickness landing 01 - with dora rogers &  | RSS.com</a></iframe>
+
 ### the maps
 
 #### dora

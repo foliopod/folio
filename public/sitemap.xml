@@ -2,323 +2,332 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://foliopod.github.io/folio/</loc>
+    <loc>http://localhost:1313/folio/</loc>
     <lastmod>2025-10-03T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/transcripts/</loc>
+    <loc>http://localhost:1313/folio/transcripts/</loc>
     <lastmod>2025-10-03T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/transcripts/friendly-neighbourhood-super-hero-05/</loc>
+    <loc>http://localhost:1313/folio/guests/dora-rogers/</loc>
+    <lastmod>2025-09-19T11:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/folio/transcripts/farsickness-landing-01/</loc>
+    <lastmod>2025-09-19T11:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/folio/games/farsickness-landing/</loc>
+    <lastmod>2025-09-19T11:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/folio/games/</loc>
+    <lastmod>2025-09-19T11:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/folio/guests/</loc>
+    <lastmod>2025-09-19T11:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/folio/guests/marc-majcher/</loc>
+    <lastmod>2025-09-19T11:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/folio/transcripts/friendly-neighbourhood-super-hero-05/</loc>
     <lastmod>2025-09-12T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/games/friendly-neighbourhood-super-hero/</loc>
+    <loc>http://localhost:1313/folio/games/friendly-neighbourhood-super-hero/</loc>
     <lastmod>2025-09-12T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/games/</loc>
+    <loc>http://localhost:1313/folio/guests/gwen-frankenstien/</loc>
     <lastmod>2025-09-12T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/guests/</loc>
+    <loc>http://localhost:1313/folio/guests/jeff-stormer/</loc>
     <lastmod>2025-09-12T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/guests/gwen-frankenstien/</loc>
-    <lastmod>2025-09-12T11:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://foliopod.github.io/folio/guests/jeff-stormer/</loc>
-    <lastmod>2025-09-12T11:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://foliopod.github.io/folio/transcripts/friendly-neighbourhood-super-hero-04/</loc>
+    <loc>http://localhost:1313/folio/transcripts/friendly-neighbourhood-super-hero-04/</loc>
     <lastmod>2025-09-05T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/transcripts/friendly-neighbourhood-super-hero-03/</loc>
+    <loc>http://localhost:1313/folio/transcripts/friendly-neighbourhood-super-hero-03/</loc>
     <lastmod>2025-08-29T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/transcripts/friendly-neighbourhood-super-hero-02/</loc>
+    <loc>http://localhost:1313/folio/transcripts/friendly-neighbourhood-super-hero-02/</loc>
     <lastmod>2025-08-22T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/transcripts/friendly-neighbourhood-super-hero-01/</loc>
+    <loc>http://localhost:1313/folio/transcripts/friendly-neighbourhood-super-hero-01/</loc>
     <lastmod>2025-08-15T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/guests/austin-ramsay/</loc>
+    <loc>http://localhost:1313/folio/guests/austin-ramsay/</loc>
     <lastmod>2025-08-08T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/guests/briar-sovereign/</loc>
+    <loc>http://localhost:1313/folio/guests/briar-sovereign/</loc>
     <lastmod>2025-08-08T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/transcripts/this-is-where-the-stars-died-03/</loc>
+    <loc>http://localhost:1313/folio/transcripts/this-is-where-the-stars-died-03/</loc>
     <lastmod>2025-08-08T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/games/this-is-where-the-stars-died/</loc>
+    <loc>http://localhost:1313/folio/games/this-is-where-the-stars-died/</loc>
     <lastmod>2025-08-08T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/transcripts/this-is-where-the-stars-died-02/</loc>
+    <loc>http://localhost:1313/folio/transcripts/this-is-where-the-stars-died-02/</loc>
     <lastmod>2025-08-01T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/wrapped/</loc>
+    <loc>http://localhost:1313/folio/wrapped/</loc>
     <lastmod>2025-07-28T11:30:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/transcripts/this-is-where-the-stars-died-01/</loc>
+    <loc>http://localhost:1313/folio/transcripts/this-is-where-the-stars-died-01/</loc>
     <lastmod>2025-07-25T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/guests/chloe-sobel/</loc>
+    <loc>http://localhost:1313/folio/guests/chloe-sobel/</loc>
     <lastmod>2025-07-18T11:30:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/guests/happy-birthday/</loc>
+    <loc>http://localhost:1313/folio/guests/happy-birthday/</loc>
     <lastmod>2025-07-18T11:30:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/games/to-honour-and-obey/</loc>
+    <loc>http://localhost:1313/folio/games/to-honour-and-obey/</loc>
     <lastmod>2025-07-18T11:30:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/wrapped/to-honour-and-obey/</loc>
+    <loc>http://localhost:1313/folio/wrapped/to-honour-and-obey/</loc>
     <lastmod>2025-07-18T11:30:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/transcripts/to-honour-and-obey-03/</loc>
+    <loc>http://localhost:1313/folio/transcripts/to-honour-and-obey-03/</loc>
     <lastmod>2025-07-18T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/transcripts/to-honour-and-obey-02/</loc>
+    <loc>http://localhost:1313/folio/transcripts/to-honour-and-obey-02/</loc>
     <lastmod>2025-07-11T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/transcripts/to-honour-and-obey-01/</loc>
+    <loc>http://localhost:1313/folio/transcripts/to-honour-and-obey-01/</loc>
     <lastmod>2025-07-04T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/trailers/to-honour-and-obey/</loc>
+    <loc>http://localhost:1313/folio/trailers/to-honour-and-obey/</loc>
     <lastmod>2025-07-04T10:30:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/trailers/</loc>
+    <loc>http://localhost:1313/folio/trailers/</loc>
     <lastmod>2025-07-04T10:30:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/guests/alyssa/</loc>
+    <loc>http://localhost:1313/folio/guests/alyssa/</loc>
     <lastmod>2025-06-27T11:30:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/games/furyya/</loc>
+    <loc>http://localhost:1313/folio/games/furyya/</loc>
     <lastmod>2025-06-27T11:30:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/wrapped/furyya/</loc>
+    <loc>http://localhost:1313/folio/wrapped/furyya/</loc>
     <lastmod>2025-06-27T11:30:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/guests/matthew-orr/</loc>
+    <loc>http://localhost:1313/folio/guests/matthew-orr/</loc>
     <lastmod>2025-06-27T11:30:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/transcripts/furyya-04/</loc>
+    <loc>http://localhost:1313/folio/transcripts/furyya-04/</loc>
     <lastmod>2025-06-27T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/transcripts/furyya-03/</loc>
+    <loc>http://localhost:1313/folio/transcripts/furyya-03/</loc>
     <lastmod>2025-06-20T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/transcripts/furyya-02/</loc>
+    <loc>http://localhost:1313/folio/transcripts/furyya-02/</loc>
     <lastmod>2025-06-13T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/transcripts/furyya-01/</loc>
+    <loc>http://localhost:1313/folio/transcripts/furyya-01/</loc>
     <lastmod>2025-06-06T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/trailers/furyya/</loc>
+    <loc>http://localhost:1313/folio/trailers/furyya/</loc>
     <lastmod>2025-06-06T10:30:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/games/skyworthy/</loc>
+    <loc>http://localhost:1313/folio/games/skyworthy/</loc>
     <lastmod>2025-05-30T11:30:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/wrapped/skyworthy/</loc>
+    <loc>http://localhost:1313/folio/wrapped/skyworthy/</loc>
     <lastmod>2025-05-30T11:30:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/guests/caleb-zane-huett/</loc>
+    <loc>http://localhost:1313/folio/guests/caleb-zane-huett/</loc>
     <lastmod>2025-05-30T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/guests/connor-c/</loc>
+    <loc>http://localhost:1313/folio/guests/connor-c/</loc>
     <lastmod>2025-05-30T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/transcripts/skyworthy-04/</loc>
+    <loc>http://localhost:1313/folio/transcripts/skyworthy-04/</loc>
     <lastmod>2025-05-30T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/transcripts/skyworthy-03/</loc>
+    <loc>http://localhost:1313/folio/transcripts/skyworthy-03/</loc>
     <lastmod>2025-05-23T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/transcripts/skyworthy-02/</loc>
+    <loc>http://localhost:1313/folio/transcripts/skyworthy-02/</loc>
     <lastmod>2025-05-16T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/transcripts/skyworthy-01/</loc>
+    <loc>http://localhost:1313/folio/transcripts/skyworthy-01/</loc>
     <lastmod>2025-05-09T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/trailers/skyworthy/</loc>
+    <loc>http://localhost:1313/folio/trailers/skyworthy/</loc>
     <lastmod>2025-05-09T10:30:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/guests/dorian/</loc>
+    <loc>http://localhost:1313/folio/guests/dorian/</loc>
     <lastmod>2025-05-02T11:30:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/guests/nick-butler/</loc>
+    <loc>http://localhost:1313/folio/guests/nick-butler/</loc>
     <lastmod>2025-05-02T11:30:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/games/the-world-we-left-behind/</loc>
+    <loc>http://localhost:1313/folio/games/the-world-we-left-behind/</loc>
     <lastmod>2025-05-02T11:30:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/wrapped/the-world-we-left-behind/</loc>
+    <loc>http://localhost:1313/folio/wrapped/the-world-we-left-behind/</loc>
     <lastmod>2025-05-02T11:30:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/transcripts/the-world-we-left-behind-04/</loc>
+    <loc>http://localhost:1313/folio/transcripts/the-world-we-left-behind-04/</loc>
     <lastmod>2025-05-02T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/transcripts/the-world-we-left-behind-03/</loc>
+    <loc>http://localhost:1313/folio/transcripts/the-world-we-left-behind-03/</loc>
     <lastmod>2025-04-25T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/transcripts/the-world-we-left-behind-02/</loc>
+    <loc>http://localhost:1313/folio/transcripts/the-world-we-left-behind-02/</loc>
     <lastmod>2025-04-18T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/transcripts/the-world-we-left-behind-01/</loc>
+    <loc>http://localhost:1313/folio/transcripts/the-world-we-left-behind-01/</loc>
     <lastmod>2025-04-11T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/trailers/the-world-we-left-behind/</loc>
+    <loc>http://localhost:1313/folio/trailers/the-world-we-left-behind/</loc>
     <lastmod>2025-04-11T10:30:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/transcripts/my-turn-draw/</loc>
+    <loc>http://localhost:1313/folio/transcripts/my-turn-draw/</loc>
     <lastmod>2025-04-04T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/games/my-turn-draw/</loc>
+    <loc>http://localhost:1313/folio/games/my-turn-draw/</loc>
     <lastmod>2025-04-04T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/guests/steph-novak/</loc>
+    <loc>http://localhost:1313/folio/guests/steph-novak/</loc>
     <lastmod>2025-04-04T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/transcripts/immanence-05/</loc>
+    <loc>http://localhost:1313/folio/transcripts/immanence-05/</loc>
     <lastmod>2025-03-22T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/guests/garbageface-aka-gnostic-front-aka-karol-orzechowski/</loc>
+    <loc>http://localhost:1313/folio/guests/garbageface-aka-gnostic-front-aka-karol-orzechowski/</loc>
     <lastmod>2025-03-22T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/games/immanence/</loc>
+    <loc>http://localhost:1313/folio/games/immanence/</loc>
     <lastmod>2025-03-22T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/guests/jam-edwards/</loc>
+    <loc>http://localhost:1313/folio/guests/jam-edwards/</loc>
     <lastmod>2025-03-22T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/transcripts/immanence-04/</loc>
+    <loc>http://localhost:1313/folio/transcripts/immanence-04/</loc>
     <lastmod>2025-03-15T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/transcripts/immanence-03/</loc>
+    <loc>http://localhost:1313/folio/transcripts/immanence-03/</loc>
     <lastmod>2025-03-08T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/transcripts/immanence-02/</loc>
+    <loc>http://localhost:1313/folio/transcripts/immanence-02/</loc>
     <lastmod>2025-03-07T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/transcripts/immanence-01/</loc>
+    <loc>http://localhost:1313/folio/transcripts/immanence-01/</loc>
     <lastmod>2025-02-28T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/trailers/immanence/</loc>
+    <loc>http://localhost:1313/folio/trailers/immanence/</loc>
     <lastmod>2025-02-28T10:30:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/guests/brianna-price/</loc>
+    <loc>http://localhost:1313/folio/guests/brianna-price/</loc>
     <lastmod>2025-02-21T11:30:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/guests/dora-rogers/</loc>
+    <loc>http://localhost:1313/folio/games/live.-love.-die.-remember./</loc>
     <lastmod>2025-02-21T11:30:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/games/live.-love.-die.-remember./</loc>
+    <loc>http://localhost:1313/folio/wrapped/live-love-die-remember/</loc>
     <lastmod>2025-02-21T11:30:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/wrapped/live-love-die-remember/</loc>
-    <lastmod>2025-02-21T11:30:00+00:00</lastmod>
-  </url><url>
-    <loc>https://foliopod.github.io/folio/transcripts/live-love-die-remember-04/</loc>
+    <loc>http://localhost:1313/folio/transcripts/live-love-die-remember-04/</loc>
     <lastmod>2025-02-21T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/transcripts/live-love-die-remember-03/</loc>
+    <loc>http://localhost:1313/folio/transcripts/live-love-die-remember-03/</loc>
     <lastmod>2025-02-14T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/transcripts/live-love-die-remember-02/</loc>
+    <loc>http://localhost:1313/folio/transcripts/live-love-die-remember-02/</loc>
     <lastmod>2025-02-07T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/transcripts/live-love-die-remember-01/</loc>
+    <loc>http://localhost:1313/folio/transcripts/live-love-die-remember-01/</loc>
     <lastmod>2025-01-31T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/trailers/live-love-die-remember/</loc>
+    <loc>http://localhost:1313/folio/trailers/live-love-die-remember/</loc>
     <lastmod>2025-01-31T10:30:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/games/alone-among-the-stars/</loc>
+    <loc>http://localhost:1313/folio/games/alone-among-the-stars/</loc>
     <lastmod>2025-01-24T11:30:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/wrapped/alone-among-the-stars/</loc>
+    <loc>http://localhost:1313/folio/wrapped/alone-among-the-stars/</loc>
     <lastmod>2025-01-24T11:30:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/guests/dusty-hill/</loc>
+    <loc>http://localhost:1313/folio/guests/dusty-hill/</loc>
     <lastmod>2025-01-24T11:30:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/guests/jess-levine/</loc>
+    <loc>http://localhost:1313/folio/guests/jess-levine/</loc>
     <lastmod>2025-01-24T11:30:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/guests/dusty/</loc>
+    <loc>http://localhost:1313/folio/guests/dusty/</loc>
     <lastmod>2025-01-24T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/transcripts/alone-among-the-stars-03/</loc>
+    <loc>http://localhost:1313/folio/transcripts/alone-among-the-stars-03/</loc>
     <lastmod>2025-01-24T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/transcripts/alone-among-the-stars-02/</loc>
+    <loc>http://localhost:1313/folio/transcripts/alone-among-the-stars-02/</loc>
     <lastmod>2025-01-17T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/transcripts/alone-among-the-stars-01/</loc>
+    <loc>http://localhost:1313/folio/transcripts/alone-among-the-stars-01/</loc>
     <lastmod>2025-01-10T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/guests/agatha-c/</loc>
+    <loc>http://localhost:1313/folio/guests/agatha-c/</loc>
     <lastmod>2024-12-20T11:30:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/guests/rhannon-daly/</loc>
+    <loc>http://localhost:1313/folio/guests/rhannon-daly/</loc>
     <lastmod>2024-12-20T11:30:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/games/village-witch/</loc>
+    <loc>http://localhost:1313/folio/games/village-witch/</loc>
     <lastmod>2024-12-20T11:30:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/wrapped/village-witch/</loc>
+    <loc>http://localhost:1313/folio/wrapped/village-witch/</loc>
     <lastmod>2024-12-20T11:30:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/transcripts/village-witch-05/</loc>
+    <loc>http://localhost:1313/folio/transcripts/village-witch-05/</loc>
     <lastmod>2024-12-20T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/transcripts/village-witch-04/</loc>
+    <loc>http://localhost:1313/folio/transcripts/village-witch-04/</loc>
     <lastmod>2024-12-13T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/transcripts/village-witch-01/</loc>
+    <loc>http://localhost:1313/folio/transcripts/village-witch-01/</loc>
     <lastmod>2024-11-29T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/transcripts/village-witch-02/</loc>
+    <loc>http://localhost:1313/folio/transcripts/village-witch-02/</loc>
     <lastmod>2024-11-29T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/transcripts/village-witch-01/</loc>
+    <loc>http://localhost:1313/folio/transcripts/village-witch-01/</loc>
     <lastmod>2024-11-29T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/guests/darling-demon-eclipse/</loc>
+    <loc>http://localhost:1313/folio/guests/darling-demon-eclipse/</loc>
     <lastmod>2024-11-15T11:30:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/games/unplugged-survivor/</loc>
+    <loc>http://localhost:1313/folio/games/unplugged-survivor/</loc>
     <lastmod>2024-11-15T11:30:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/wrapped/unplugged-survivor/</loc>
+    <loc>http://localhost:1313/folio/wrapped/unplugged-survivor/</loc>
     <lastmod>2024-11-15T11:30:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/transcripts/unplugged-survivor-03/</loc>
+    <loc>http://localhost:1313/folio/transcripts/unplugged-survivor-03/</loc>
     <lastmod>2024-11-15T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/transcripts/unplugged-survivor-02/</loc>
+    <loc>http://localhost:1313/folio/transcripts/unplugged-survivor-02/</loc>
     <lastmod>2024-11-08T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/transcripts/unplugged-survivor-01/</loc>
+    <loc>http://localhost:1313/folio/transcripts/unplugged-survivor-01/</loc>
     <lastmod>2024-11-01T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/games/accomplice/</loc>
+    <loc>http://localhost:1313/folio/games/accomplice/</loc>
     <lastmod>2024-10-25T11:30:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/wrapped/accomplice/</loc>
+    <loc>http://localhost:1313/folio/wrapped/accomplice/</loc>
     <lastmod>2024-10-25T11:30:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/guests/tomas-gimenez-rioja/</loc>
+    <loc>http://localhost:1313/folio/guests/tomas-gimenez-rioja/</loc>
     <lastmod>2024-10-25T11:30:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/transcripts/accomplice-03/</loc>
+    <loc>http://localhost:1313/folio/transcripts/accomplice-03/</loc>
     <lastmod>2024-10-25T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/transcripts/accomplice-02/</loc>
+    <loc>http://localhost:1313/folio/transcripts/accomplice-02/</loc>
     <lastmod>2024-10-18T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/transcripts/accomplice-01/</loc>
+    <loc>http://localhost:1313/folio/transcripts/accomplice-01/</loc>
     <lastmod>2024-10-11T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://foliopod.github.io/folio/categories/</loc>
+    <loc>http://localhost:1313/folio/categories/</loc>
   </url><url>
-    <loc>https://foliopod.github.io/folio/tags/</loc>
+    <loc>http://localhost:1313/folio/tags/</loc>
   </url>
 </urlset>

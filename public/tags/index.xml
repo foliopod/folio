@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on folio | multi-guest solo TTRPG actual play</title>
-    <link>https://foliopod.github.io/folio/tags/</link>
+    <link>http://localhost:1313/folio/tags/</link>
     <description>Recent content in Tags on folio | multi-guest solo TTRPG actual play</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="https://foliopod.github.io/folio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/folio/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
