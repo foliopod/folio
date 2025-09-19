@@ -23,7 +23,7 @@ toc : true
 
 #### dora
 
-{{< figure src="/images/transcripts/farsickness-landing-map-dora.png" alt="" >}}
+{{< figure src="/images/transcripts/farsickness-landing-map-dora.jpg" alt="" >}}
 
 #### marc
 
@@ -31,6 +31,6 @@ toc : true
 
 #### satah
 
-{{< figure src="/images/transcripts/farsickness-landing-map-satah.png" alt="" >}}
+{{< figure src="/images/transcripts/farsickness-landing-map-satah.jpg" alt="" >}}
 
 _transcript WIP_
