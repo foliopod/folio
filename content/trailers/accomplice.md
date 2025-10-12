@@ -1,11 +1,15 @@
 ---
-draft : true
+draft : false
 
-date : '2024-10-25T10:30:00'
+date : '2024-10-11T10:30:00'
 title : 'accomplice | series trailer'
 
 games:
  - accomplice
+
+guests:
+- caleb zane huett
+- tomas gimenez rioja
 
 description : ''
 
@@ -13,4 +17,4 @@ scrolltotop : true
 toc : true
 ---
 
-{{< youtube "RJkGi4-6nfg" >}}
+{{< youtube "7mhCOTPx8sQ" >}}

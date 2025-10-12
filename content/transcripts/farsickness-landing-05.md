@@ -2,7 +2,7 @@
 draft : true
 
 title : 'episode 052 | farsickness landing 05'
-date : '2025-09-12T11:00:00'
+date : '2025-10-17T11:00:00'
 
 games:
  - farsickness landing

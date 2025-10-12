@@ -1,5 +1,5 @@
 ---
-draft : true
+draft : false
 
 title : 'episode 050 | farsickness landing 03'
 date : '2025-10-03T11:00:00'
