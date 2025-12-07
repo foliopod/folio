@@ -39,7 +39,7 @@
 				<div class="post-date"><span>{{ .Date.Format (default .Site.Params.dateform.LongDate "Jan 2, 2006") }}</span></div>
 				<h1>{{ .Title }}</h1>
 			</header>
-			<div class="post-description">{{ partial "breadcrumbs.html" . }} </div>
+			<div class="post-description">{{- partial "posts_single_info.html" . -}}</div>
 			<hr class="post-end">
 			<div class="content">
 				 {{ .Content | safeHTML }}

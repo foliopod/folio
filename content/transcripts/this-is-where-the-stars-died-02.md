@@ -8,7 +8,7 @@ games:
  - this is where the stars died
 
 guests:
- - austin ramsay
+ - avalyn ramsay
  - briar sovereign
 
 description : ''

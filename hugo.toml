@@ -29,7 +29,7 @@ enableEmoji = true
 
 [params]
 	description = "multi-guest actual play of solo TTRPGs"
-	# themeColor =
+	# themeColor = 444365
 	# accentColor =
 	homeSubtitle = "multi-guest actual play of solo & self-paced TTRPGs"
 
@@ -40,6 +40,8 @@ enableEmoji = true
 	# categorySymbol
 	# pinned
 	listLayout = ["categories","tags"]
+
+	allowRobots = ["index"]
 
 	capitalizeListTitles = false
 	preserveTaxonomyNames = true

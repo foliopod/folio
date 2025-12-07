@@ -20,11 +20,17 @@
 <p>
 {{ partial "breadcrumbs.html" . }}
 
+<!-- game -->
+{{ if .Params.games }}
+  {{ partial "svg.html" (dict "context" . "name" "posts_single_categories") }}
+  {{ range $index, $games := .Params.games }}{{ if gt $index 0 }}, {{ end }}<a href="{{ "/folio/games/" | relURL }}{{ . | urlize }}">{{ . }}</a>{{ end }}
+{{ end }} |
+
 <!-- guests --> 
 {{ if .Params.guests }}
   {{ partial "svg.html" (dict "context" . "name" "author") }} <strong>guest{{ if gt (len .Params.guests) 1 }}s{{ end }}:</strong>
   {{ range $index, $guest := .Params.guests }}{{ if gt $index 0 }}, {{ end }}<a href="{{ "/folio/guests/" | relURL }}{{ . | urlize }}">{{ . }}</a>{{ end }}
-{{ end }}
+{{ end }} |
 
 <!-- word count --> 
 {{- partial "svg.html" (dict "context" . "name" "posts_single_wordcount") }}{{- .WordCount }}&nbsp{{- if fileExists "i18n" }} {{ i18n "wordCount" . -}} {{- else -}} Words {{- end }} {{ partial "readTime.html" . -}} </p>
