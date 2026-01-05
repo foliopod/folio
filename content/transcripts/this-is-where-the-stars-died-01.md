@@ -56,7 +56,7 @@ lose. Not that that's what defines gaminess necessarily, but it's, like ,an aspe
 
 **AVALYN:** Got my deck of cards, which I pulled out of storage from back when I was recording actual play podcasts in person.
 
-**BRIAR:** **I realised today that I do not own a real set of cards, which is bizarre to me. So, thank you, unnamed online virtual tabletop that I'm using.
+**BRIAR:**** **I realised today that I do not own a real set of cards, which is bizarre to me. So, thank you, unnamed online virtual tabletop that I'm using.
 
 **AVALYN:** Gotta shuffle this sucker… [Card shuffling noises]
 
@@ -86,7 +86,7 @@ I'm actually restarting my game because I misunderstood this and I thought that 
 
 **BRIAR:** That is the nine of clubs, so we're looking at an
 
-**BRIAR & **SATAH:** Eradicate
+**BRIAR & SATAH:** Eradicate
 
 **BRIAR:** mission. [Laughs] "Annihilate all semblance of the enemy and achieve total domination." Hell yeah, I love to achieve total domination. Um, nuance? Not for me.
 
@@ -200,85 +200,85 @@ Given that we're trying to infiltrate something... theoretically, that's what I'
 
 **BRIAR:** Top card we have here is the jack of hearts.
 
-**SATAH:** "Guess whether the next card you flip will be higher or lower than the first. Once decided, flip over the next card."
+****SATAH:**** "Guess whether the next card you flip will be higher or lower than the first. Once decided, flip over the next card."
 
 A nine. Okay, math.
 
-**BRIAR:** I think I can pretty confidently bring out a lower verdict on this one.
+****BRIAR:**** I think I can pretty confidently bring out a lower verdict on this one.
 
-**AVALYN:** I think it's going to be lower, because queen's pretty up there.
+****AVALYN:**** I think it's going to be lower, because queen's pretty up there.
 
-**SATAH:** Aces are low, so there are.... eight cards that are lower and... six cards that are higher? That can't be right. That's not how math works. Four cards that are higher. [Laughing] Sure. So statistically, it's more likely to be lower. I'm going to say lower, and I'm going to flip over the card.
+****SATAH:**** Aces are low, so there are.... eight cards that are lower and... six cards that are higher? That can't be right. That's not how math works. Four cards that are higher. [Laughing] Sure. So statistically, it's more likely to be lower. I'm going to say lower, and I'm going to flip over the card.
 
-**AVALYN:** Alright. Let's see. [Card flipping]
+****AVALYN:**** Alright. Let's see. [Card flipping]
 
-**BRIAR:** And the next card up is…
+****BRIAR:**** And the next card up is…
 
-**AVALYN:** [Pained] Ooooh...
+****AVALYN:**** [Pained] Ooooh...
 
-**BRIAR:** [Laughing] Of course.
+****BRIAR:**** [Laughing] Of course.
 
-**SATAH:** Oof.
+****SATAH:**** Oof.
 
-**AVALYN:** That is also a queen.
+****AVALYN:**** That is also a queen.
 
-**BRIAR:** The queen of spades.
+****BRIAR:**** The queen of spades.
 
-**AVALYN:** That's queen of spades.
+****AVALYN:**** That's queen of spades.
 
-**SATAH:** Queen of spades, so it is higher.
+****SATAH:**** Queen of spades, so it is higher.
 
-**BRIAR:** Which is higher. So that's bad.
+****BRIAR:**** Which is higher. So that's bad.
 
-**SATAH:** "If you were right, score a victory point. Otherwise, gain a defeat point."
+****SATAH:**** "If you were right, score a victory point. Otherwise, gain a defeat point."
 
-**AVALYN:** Okay, so that's going to be a defeat.
+****AVALYN:**** Okay, so that's going to be a defeat.
 
-**SATAH:** There are some other, like, mechanics, especially sort of, like, gamble-y mechanics that you can do that… [Laughing] I don't think I'm enough of a risk taker to ever implement, so I don't know they'll come up for me.
+****SATAH:**** There are some other, like, mechanics, especially sort of, like, gamble-y mechanics that you can do that… [Laughing] I don't think I'm enough of a risk taker to ever implement, so I don't know they'll come up for me.
 
 But, uh, before you flip the second card, you can decide to push where you say, "Not only is the next card going to be higher, it's also going to be a red card. Or a black card." You say the colour of the card, then if you win, you get two victory points, but if you lose, you get two defeat points. You could also do a desperate stand where you say, "It's also going to be a specific suit," and then you get three victory or three defeat points. And again, I just– I don't know that I'm ever going to do that. [Laughing] It's too scary to me.
 
 You also have two reinforcements per game where you can, like, basically reroll your second conflict card?
 
-**AVALYN:** Do I keep that and accept that this will be a defeat? I think I do.
+****AVALYN:**** Do I keep that and accept that this will be a defeat? I think I do.
 
-**SATAH:** I think nine is, like, enough in the middle that it's not worth burning a reinforcement already, so I'm just going to take the loss.
+****SATAH:**** I think nine is, like, enough in the middle that it's not worth burning a reinforcement already, so I'm just going to take the loss.
 
-**BRIAR:** Now that you can see both conflict resolution cards, note that number and suit, and refer to the conflict elements table for a verb and a noun. Interesting.
+****BRIAR:**** Now that you can see both conflict resolution cards, note that number and suit, and refer to the conflict elements table for a verb and a noun. Interesting.
 
-**SATAH:** [Sing-song] I love this part.
+****SATAH:**** [Sing-song] I love this part.
 
-**BRIAR:** We have the jack of hearts. That is a "demand".
+****BRIAR:**** We have the jack of hearts. That is a "demand".
 
-**SATAH:** The first conflict card was the nine of spades, so that is "advance".
+****SATAH:**** The first conflict card was the nine of spades, so that is "advance".
 
-**AVALYN:** "Annihilate". Okay.
+****AVALYN:**** "Annihilate". Okay.
 
-**BRIAR:** And we have the queen of spades,
+****BRIAR:**** And we have the queen of spades,
 
-**BRIAR & **SATAH:** which is "guilt". Ooh, okay.
+**BRIAR & SATAH:** which is "guilt". Ooh, okay.
 
-**SATAH:** Ooh! Okay!
+****SATAH:**** Ooh! Okay!
 
-**AVALYN:** So, queen of spades is "soldier".
+****AVALYN:**** So, queen of spades is "soldier".
 
-**SATAH:** I love the little note section that it has on describing the enemy: "The Basilisk are ever-changing, always adapting to new situations. Many are a mechanical hybrid of human and machine, horrors beyond most mortals' comprehension, while others are monstrous robots or killer drones. There's no description of the AI enemy on purpose. They are constantly evolving, so use your imagination when describing the Basilisk troops. Some may have lots of arms, while others could be insect-like or even undead. One thing that is always true is that Basilisk wants to reconfigure humans, remaking them in their own image. This is a gruesome procedure that is impossible to survive."
+****SATAH:**** I love the little note section that it has on describing the enemy: "The Basilisk are ever-changing, always adapting to new situations. Many are a mechanical hybrid of human and machine, horrors beyond most mortals' comprehension, while others are monstrous robots or killer drones. There's no description of the AI enemy on purpose. They are constantly evolving, so use your imagination when describing the Basilisk troops. Some may have lots of arms, while others could be insect-like or even undead. One thing that is always true is that Basilisk wants to reconfigure humans, remaking them in their own image. This is a gruesome procedure that is impossible to survive."
 
-**AVALYN:** So, "Using your troop tags, element tags, and conflict tag, knowing whether the conflict is a victory or defeat, as well as your mission, craft a short narrative."
+****AVALYN:**** So, "Using your troop tags, element tags, and conflict tag, knowing whether the conflict is a victory or defeat, as well as your mission, craft a short narrative."
 
-**BRIAR:** "This is where they began to mimic us." Where "guilt" was "demanded". And we lost. Huh. And I've sent the Emerald Vanguard…
+****BRIAR:**** "This is where they began to mimic us." Where "guilt" was "demanded". And we lost. Huh. And I've sent the Emerald Vanguard…
 
 I think this was some kind of a public protest. Some kind of, like, mass protest had been put on about whatever led into Basilisk forming. Maybe it was something about, like, the way people have been conscripted to go fight it. And they sent rookies to deal with it.
 
 And it turned out those were not protesters. That was Basilisk. "This was where they began to mimic us." They had taken the form of humans, and it was only once they got too close that it was revealed. And they were completely taken by surprise. These were rookies. That is one of the Vanguard tags. They were not prepared for this. They were completely overwhelmed, and that led me to my first defeat. Eradication did not succeed here.
 
-**AVALYN:** "This is where darkness fell" over us, and I sent in the Shadewatch...
+****AVALYN:**** "This is where darkness fell" over us, and I sent in the Shadewatch...
 
 Ooh. I think that there is a massive, pollute smog stack as part of the factory that is intentionally, you know, not exactly meeting environmental protections, uh, because... I think that the machines explicitly want the smog to weaken any humans that are trying to assault it. Smog blocks radar and other sensors, and so we sent in Shadewatch on foot to get an eye on what is happening here.
 
 So they're sneaking in under the cover of this literal darkness and also the sensor blackout that it causes. And we got the element tags "annihilate" and "soldier"... so, unfortunately, I think the team of Shadewatch that goes in just disappears. You know, we were expecting to not be able to hear from them for a while, but then their check-in time misses... their backup check-in time passes… and eventually we just have to go on without them. Without any information they might be able to bring us about what's to come. Just have to do it. Write off those troops.
 
-**SATAH:** "This is where our surroundings became a nightmare" makes sense.
+****SATAH:**** "This is where our surroundings became a nightmare" makes sense.
 
 I sent Shadewatch in.… they were infiltrating, I think, just to, like, turn off a security system? This is, like, one of the first things that actually happens in this conflict– which, like, doesn't have to be true. This can be, like, simultaneous or totally nonlinear. But I think this is one of the first things that happened.
 
@@ -296,11 +296,11 @@ And I think it's- it's- it's unique per person, right? Like some of them are, li
 
 It's a defeat because we– they don't dismantle the security and we- we lost some folks, but some people do get out and they pull back. And I think we'll leave– we'll leave that there and see, like, narratively– maybe they pull back to another conflict or something like that. We'll, we'll, uh, we'll check back in with them at some point and, uh, and go to the second conflict!
 
-**BRIAR:** I guess I move on to my second conflict after horribly losing my first. Bad start, bad form, not great.
+****BRIAR:**** I guess I move on to my second conflict after horribly losing my first. Bad start, bad form, not great.
 
 ### CONFLICT TWO
 
-**AVALYN:** Okay, so the next conflict zone... two of diamonds.
+****AVALYN:**** Okay, so the next conflict zone... two of diamonds.
 
 **BRIAR:** I'm going to flip over my second conflict zone, which is the eight of spades.
 

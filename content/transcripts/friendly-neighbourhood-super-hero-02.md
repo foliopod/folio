@@ -273,12 +273,12 @@ We can make it been known to the corrupt mobbed up landlords that she's under ou
 
 ## OUTRO
 
-**SATAH:** This has been Folio, an actual play podcast about solo and otherwise self-paced TTRPGs. To find where you can find the show, check out [foliopod.carrd.co](foliopod.carrd.co).
+**SATAH:** This has been *Folio*, an actual play podcast about solo and otherwise self-paced TTRPGs. To find where you can find the show, check out foliopod.carrd.co.
 
-You can find Gwen @gwenfrankenstien on Bluesky.
+You can find Gwen [@gwenfrankenstein](https://bsky.app/profile/gwenfrankenstien.bsky.social) on Bluesky.
 
-You can find Jeff at [partyofonepodcast.com](partyofonepodcast.com) and [jeffstormer.com](jeffstormer.com).
+You can find Jeff at [partyofonepodcast.com](https://partyofonepodcast.com) and [jeffstormer.com](https://jeffstormer.com).
 
-You can find Satah-that's me-at gaygothvibes.online and follow me on Bluesky at [posatahchips.gaygothvibes.online](posatahchips.gaygothvibes.online).
+You can find Satah– that's me– at [gaygothvibes.online](https://gaygothvibes.online) and follow me on Bluesky at [posatahchips.gaygothvibes.online](https://bsky.app/profile/posatahchips.gaygothvibes.online).
 
-Next week, Gwen and Jeff and I will continue our games of Friendly Neighbourhood Superhero by Catscratcher Studio, found at catscratcher.itch.io. Everything I mentioned here is linked in the show notes. Thanks so much for listening and take care out there!
+Next week, Gwen and Jeff and I will continue our games of *Friendly Neighborhood Superhero* by Catscratcher Studio, found at [catscratcher.itch.io](https://catscratcher.itch.io.). Everything I mentioned here is linked in the show notes. Thanks so much for listening, and take care out there!
